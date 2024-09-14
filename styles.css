@@ -1,0 +1,66 @@
+body {
+    background-color: #ddd;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #fff;
+    padding: 18px 6px;
+}
+
+.titulo {
+    width: 600px;
+    margin: 0;
+    margin: auto;
+}
+
+.articulo {
+    width: 600px;
+    margin: auto;
+    background-color: #fff;
+    margin-top: 70px;
+}
+
+.art_header_one {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 13px;
+    align-items: center;
+}
+
+.art_subtittle {
+    font-size: 1rem;
+    font-weight: 900;
+    margin: 0;
+}
+
+.art_date {
+    color: #aaaf;
+    font-size: 15px;
+}
+
+.art_img {
+    width: 100%;
+}
+
+.art_description {
+    margin: 0;
+    padding: 3px 13px;
+}
+
+.art_link {
+    font-weight: bold;
+    color: #000;
+    text-decoration: none;
+}
+ .art {
+    margin-bottom: 70px;
+ }
+
+
+
+
+
